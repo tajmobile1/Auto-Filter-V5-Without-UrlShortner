@@ -1,4 +1,4 @@
-from aiohttp import web
+from asyncio import web
 
 routes = web.RouteTableDef()
 
